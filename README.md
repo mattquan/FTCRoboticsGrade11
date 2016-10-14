@@ -14,3 +14,5 @@ To acclerate our motors smoothly, we use an inverse tangent function for acceler
 
 # Note:
 The FtcRobotControllerActivity and Autonomous files will not run properly; I have eliminated code that does not pertain to these two algorithms.
+For more information, check the Livingston Lancer Robotics ftc-app repository. This includes 100% of files including those not authored by me.
+https://github.com/LivingstonLancerRobotics/ftc_app
