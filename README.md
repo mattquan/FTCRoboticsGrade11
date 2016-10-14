@@ -8,7 +8,7 @@ The files FtcRobotControllerActivity.java shows the code used to initialize the 
 
 Beacon, CameraPreview, VisionProcess, and XYCoor are all auxiliary files.
 
-# Smoooth Move
+# Smooth Move
 The file Autonomous.java contains the smooth move method in the method titled: SmoothMoveVol2();
 To acclerate our motors smoothly, we use an inverse tangent function for acceleration and an inverse cosecant function for deceleration.
 
